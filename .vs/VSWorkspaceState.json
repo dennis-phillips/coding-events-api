@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\coding-events-api",
+    "\\CodingEventsAPI",
+    "\\CodingEventsAPI\\Data",
+    "\\CodingEventsAPI\\Data\\Migrations",
+    "\\CodingEventsAPI\\Data\\Repositories",
+    "\\CodingEventsAPI\\Properties",
+    "\\CodingEventsAPI\\Services"
+  ],
+  "SelectedNode": "\\CodingEventsAPI\\appsettings.json",
+  "PreviewInSolutionExplorer": false
+}
